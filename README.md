@@ -52,3 +52,5 @@ I am a 15-year-old developer passionate about technology and programming. I love
 - **Discord:** [@MinosTbug]
 - **Twitter:** [@MinosTbug]
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minostbug&" alt="minostbug" /></p>
