@@ -45,7 +45,7 @@ I am a 15-year-old developer passionate about technology and programming. I love
 </p>
 
 ## Featured projects
-3. **[Checker Web](Minoruchk.com):** Funcion = Checkear Card and bins 
+1. **[Checker Web](Minoruchk.com):** Funcion = Checkear Card and bins 
 
 ## Contact
 - **Telegram:** [@MinosTbug]
@@ -54,7 +54,5 @@ I am a 15-year-old developer passionate about technology and programming. I love
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minostbug&show_icons=true&locale=en&layout=compact" alt="minostbug" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minostbug&show_icons=true&locale=en" alt="minostbug" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minostbug&" alt="minostbug" /></p>
