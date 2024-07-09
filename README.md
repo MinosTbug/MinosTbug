@@ -1,8 +1,7 @@
-# ¡Hola! Soy Minos 👋
+# Hello! I'm Minos 👋
 
-## Sobre mí
-Soy un desarrollador con 15 años apasionado por la tecnología y la programación. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos interesantes.
-
+## About me
+I am a 15-year-old developer passionate about technology and programming. I love learning new technologies and applying my knowledge in interesting projects.
 
 
 <h3 align="left">Languages and Tools Leardmin:</h3>
@@ -45,10 +44,11 @@ Soy un desarrollador con 15 años apasionado por la tecnología y la programaci�
   </a>
 </p>
 
-## Proyectos Destacados
+## Featured projects
 3. **[Checker Web](Minoruchk.com):** Funcion = Checkear Card and bins 
 
-## Contacto
+## Contact
 - **Telegram:** [@MinosTbug]
+- **Discord:** [@MinosTbug]
+- **Twitter:** [@MinosTbug]
 
-¡Gracias por visitar mi perfil!
