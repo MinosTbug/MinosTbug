@@ -53,6 +53,10 @@ I am a 15-year-old developer passionate about technology and programming. I love
 - **Twitter:** [@MinosTbug]
 
 
+## Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minostbug&show_icons=true&locale=en&layout=compact" alt="minostbug" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minostbug&show_icons=true&locale=en" alt="minostbug" /></p>
+
+
 
