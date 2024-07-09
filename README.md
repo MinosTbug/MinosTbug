@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Minos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">¡Hola! Soy Minos 👋</h1>
+<h3 align="center">Soy un desarrollador con 15 años apasionado por la tecnología y la programación. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos interesantes.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
